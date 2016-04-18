@@ -1,0 +1,1 @@
+E:\Учеба\Курсовой\ProxyServer\ProxyServer\bin\Debug\ProxyServer.exe.config

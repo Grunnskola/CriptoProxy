@@ -1,0 +1,5 @@
+E:\Учеба\Курсовой\ProxyServer\EncryptionLibrary\bin\Debug\EncryptionLibrary.dll
+E:\Учеба\Курсовой\ProxyServer\EncryptionLibrary\bin\Debug\EncryptionLibrary.pdb
+E:\Учеба\Курсовой\ProxyServer\EncryptionLibrary\obj\Debug\EncryptionLibrary.csprojResolveAssemblyReference.cache
+E:\Учеба\Курсовой\ProxyServer\EncryptionLibrary\obj\Debug\EncryptionLibrary.dll
+E:\Учеба\Курсовой\ProxyServer\EncryptionLibrary\obj\Debug\EncryptionLibrary.pdb

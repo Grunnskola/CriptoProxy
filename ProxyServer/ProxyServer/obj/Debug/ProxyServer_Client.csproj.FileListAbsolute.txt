@@ -1,0 +1,11 @@
+E:\Учеба\Курсовой\ProxyServer\ProxyServer\obj\Debug\ProxyServer_Client.csprojResolveAssemblyReference.cache
+E:\Учеба\Курсовой\ProxyServer\ProxyServer\obj\Debug\ProxyServer.Client.resources
+E:\Учеба\Курсовой\ProxyServer\ProxyServer\obj\Debug\ProxyServer.Properties.Resources.resources
+E:\Учеба\Курсовой\ProxyServer\ProxyServer\obj\Debug\ProxyServer_Client.csproj.GenerateResource.Cache
+E:\Учеба\Курсовой\ProxyServer\ProxyServer\bin\Debug\ProxyServer.exe.config
+E:\Учеба\Курсовой\ProxyServer\ProxyServer\bin\Debug\ProxyServer.exe
+E:\Учеба\Курсовой\ProxyServer\ProxyServer\bin\Debug\ProxyServer.pdb
+E:\Учеба\Курсовой\ProxyServer\ProxyServer\bin\Debug\EncryptionLibrary.dll
+E:\Учеба\Курсовой\ProxyServer\ProxyServer\bin\Debug\EncryptionLibrary.pdb
+E:\Учеба\Курсовой\ProxyServer\ProxyServer\obj\Debug\ProxyServer.exe
+E:\Учеба\Курсовой\ProxyServer\ProxyServer\obj\Debug\ProxyServer.pdb

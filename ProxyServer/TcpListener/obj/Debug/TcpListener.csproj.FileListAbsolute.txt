@@ -1,0 +1,9 @@
+E:\Учеба\Курсовой\ProxyServer\TcpListener\bin\Debug\TcpListener.dll
+E:\Учеба\Курсовой\ProxyServer\TcpListener\bin\Debug\TcpListener.pdb
+E:\Учеба\Курсовой\ProxyServer\TcpListener\bin\Debug\ProxyServer_Server.exe
+E:\Учеба\Курсовой\ProxyServer\TcpListener\bin\Debug\EncryptionLibrary.dll
+E:\Учеба\Курсовой\ProxyServer\TcpListener\bin\Debug\ProxyServer_Server.pdb
+E:\Учеба\Курсовой\ProxyServer\TcpListener\bin\Debug\EncryptionLibrary.pdb
+E:\Учеба\Курсовой\ProxyServer\TcpListener\obj\Debug\TcpListener.csprojResolveAssemblyReference.cache
+E:\Учеба\Курсовой\ProxyServer\TcpListener\obj\Debug\TcpListener.dll
+E:\Учеба\Курсовой\ProxyServer\TcpListener\obj\Debug\TcpListener.pdb
